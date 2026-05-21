@@ -1,0 +1,15 @@
+{
+	"name": "adf-uber-rb",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fb4eb8e4-04ec-432c-acc5-348075735a36",
+		"tenantId": "eaeed8e4-5349-4646-921c-35ce27df82ef"
+	}
+}
