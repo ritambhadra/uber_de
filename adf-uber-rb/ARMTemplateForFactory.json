@@ -199,7 +199,7 @@
 					"location": {
 						"type": "HttpServerLocation",
 						"relativeUrl": {
-							"value": "anshlambagit/Uber_Data_Engineer_Project/refs/heads/main/Data/@{dataset().p_file}.json",
+							"value": "/ritambhadra/Uber_DE_Project/refs/heads/main/Data/@{dataset().p_file}.json",
 							"type": "Expression"
 						}
 					}
